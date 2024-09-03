@@ -32,6 +32,7 @@ conf_py_path = "/content/"  # with leading and trailing slash
 # ones.
 extensions = [
     # githubpages just adds a .nojekyll file
+    #'myst_parser',
     "sphinx.ext.githubpages",
     "sphinx_lesson",
     # remove once sphinx_rtd_theme updated for contrast and accessibility:
