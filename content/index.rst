@@ -81,15 +81,14 @@ See also
 Credits
 -------
 
-This course is a collaboration between ~10 different instructors.
+This course is a collaboration between `Aalto Creative Technologies <https://creativetechnologies.aalto.fi/>`__, `MAGICS infrastructure <https://studios.aalto.fi/magics/>`__, and experts from the Aalto School of Science.
 
 
-
-## About this workshop
+**About this workshop**
 Some forewords about the workshop here. Structure for the day.
 
-## Instructors and Partners
+**Instructors and Partners**
 A list of who helped doing what + various partners
 
-## Code of Conduct
+**Code of Conduct**
 How to behave and who to contact when things are not going smoothly.
